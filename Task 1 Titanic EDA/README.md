@@ -19,25 +19,25 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Findings from Titanic EDA
-1️ Survival Distribution
+1️- Survival Distribution
 
 Only about 38% of passengers survived.
 
 This confirms the Titanic tragedy’s scale — survival was far less common.
 
-2️ Gender & Survival
+2️- Gender & Survival
 
 Females had a much higher survival rate than males.
 → Reflects the “Women and children first” evacuation policy.
 
-3️ Passenger Class & Survival
+3️- Passenger Class & Survival
 
 1st-class passengers had the highest chance of survival.
 
 3rd-class passengers suffered the most losses.
 → Economic and cabin location differences clearly affected outcomes.
 
-4️ Age & Survival
+4️- Age & Survival
 
 Majority of passengers were young adults (20–35 years).
 
@@ -45,7 +45,7 @@ Children had slightly better chances than middle-aged men.
 
 Very few older passengers survived.
 
-5️ Correlation Heatmap Insights
+5️- Correlation Heatmap Insights
 
 survived is negatively correlated with:
 
