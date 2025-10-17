@@ -1,6 +1,6 @@
 This project successfully applied Linear Regression to predict Sales based on advertising spend across TV, Radio, and Newspaper channels.
 
-🔹 Simple Linear Regression (Sales ~ TV)
+Simple Linear Regression (Sales ~ TV)
 
 Equation: Sales = 9.70 + 0.0357 × TV
 
@@ -8,7 +8,7 @@ R² = 0.373, MAE = 2.96, RMSE = 3.68
 
 Interpretation: TV advertising alone explains ~37 % of sales variation. Increasing TV spend by $1 k raises expected sales by about $36.
 
-🔹 Multiple Linear Regression (Sales ~ TV + Radio + Newspaper)
+Multiple Linear Regression (Sales ~ TV + Radio + Newspaper)
 
 Equation: Sales = 3.45 + 0.0412 × TV + 0.1945 × Radio + 0.0175 × Newspaper
 
